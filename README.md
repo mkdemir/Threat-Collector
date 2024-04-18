@@ -60,10 +60,3 @@ pip install requests
 ## License
 
 This project is licensed under the MIT License. For more information, see the `LICENSE` file.
-
-## Contributing
-
-Contributions are welcome and appreciated. If you have major changes to propose, please open an issue to discuss what you would like to change before making a pull request.
-```
-
-Bu README dosyası, projenizin temel bir açıklamasını, nasıl kullanılacağını ve gerekli bağımlılıkları içerir. Ek olarak, katkıda bulunma ve lisanslama hakkında bilgiler de yer alır. Dilerseniz projenize özel ek bilgiler ekleyerek genişletebilirsiniz.
